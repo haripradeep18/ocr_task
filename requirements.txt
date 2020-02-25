@@ -2,4 +2,4 @@ pytesseract
 imutils
 numpy
 opencv-python
-Pillow==2.2.1
+Pillow==6.2.0
