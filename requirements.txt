@@ -1,0 +1,5 @@
+pytesseract
+imutils
+numpy
+opencv-python
+Pillow==2.2.1
